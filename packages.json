@@ -3,15 +3,15 @@
     [
       {
         "name": "heroku-sys/ext-lpsolve",
-        "version": "5.5.0.13",
+        "version": "5.5.0.15",
         "type": "heroku-sys-php-extension",
         "require": {
-          "php": "7.4.*",
+          "php": ">=7.0",
           "heroku/installer-plugin": "^1.2.0"
         },
         "dist": {
           "type": "heroku-sys-tar",
-          "url": "https://dogchef-be.github.io/heroku-php-lpsolve-extension/ext-lpsolve-5.5.0.13_php-7.4.tar.gz"
+          "url": "https://dogchef-be.github.io/heroku-php-lpsolve-extension/ext-lpsolve-5.5.0.15_php-7.3.tar.gz"
         },
         "time": "2020-12-15 09:45:00"
       }
