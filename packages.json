@@ -11,7 +11,7 @@
         },
         "dist": {
           "type": "heroku-sys-tar",
-          "url": "https://dogchef-be.github.io/heroku-php-lpsolve-extension/ext-lpsolve-5.5.0.13.tar.gz"
+          "url": "https://dogchef-be.github.io/heroku-custom-php-extensions/ext-lpsolve-5.5.0.13.tar.gz"
         },
         "time": "2020-12-15 09:45:00"
       }
